@@ -24,3 +24,7 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  # Performance optimizations
+  tree-shake-icons: true
+  # Enable web optimizations if building for web
+  # web-renderer: html
